@@ -1,0 +1,21 @@
+*{
+    overflow-x: hidden;
+}
+body{
+    font-family: 'Rubik';
+}
+
+.logo{
+    width: 40px;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.pers{
+    width: 70vh;
+}
+.per{
+    border: none;
+}
