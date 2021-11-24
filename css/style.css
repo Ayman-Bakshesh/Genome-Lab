@@ -19,3 +19,11 @@ body{
 .per{
     border: none;
 }
+.ca{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400;
+    height: 300;
+    background-color: #DDDDDD;
+}
